@@ -51,8 +51,8 @@
         </dependency>
     </dependencies>
 
-     <build>
-    <plugins>
+    <build>
+        <plugins>
 
     <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -65,7 +65,7 @@
         </configuration>
     </plugin>
 
-      <plugin>
+    <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-assembly-plugin</artifactId>
         <executions>
